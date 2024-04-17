@@ -1,4 +1,5 @@
-## Full stack Web Developer
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
+I'm interested in Web development, DevOps, Software Engineering & Artificial Intelligence<br>
 ![gitartwork](gitartwork.svg)
 
 ### Hi there 👋 I am Biruk Moltot
@@ -6,8 +7,6 @@
 
 
 
-### About Me
-I am just another scientist who fell for coding. 🙃
 
 ### I have experience with:
 
