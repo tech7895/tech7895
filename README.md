@@ -50,14 +50,6 @@ To which the first atom replies, "Yeah, I'm positive!" <br>
 </br>
 
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wendymunyasi&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendymunyasi&langs_count=10&layout=compact&theme=radical" width="350"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=wendymunyasi&theme=radical" width="350"></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tech7895"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tech7895&theme=github"/>
