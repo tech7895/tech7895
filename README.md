@@ -15,10 +15,10 @@ I'm interested in Web development, DevOps, Software Engineering & Artificial Int
 
 ### What I do for fun 😄 
 * Play chess
-* Gym workout
-* Go for hikes when I get the time.
+* Hit the gym
+* Escape into nature
 * Listen to music.
-* Read fanfictions.
+* Dive into fanfiction
 
 
 
